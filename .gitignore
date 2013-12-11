@@ -1,0 +1,11 @@
+# Output directories
+build/
+target/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Eclipse files
+*.classpath
+*.project
